@@ -253,7 +253,7 @@
                 <div class="col-xs-12">
                     <div class="romana_single_table">
                         <h2>Economy Web Hosting (Windows)</h2>
-                        <a href="http://brandedmarketing.ga/whmcss/cart.php?gid=1"><img src="images/price_img.png" alt=""></a>
+                        <a href="http://bufferhost.com/whmcss/cart.php?gid=1"><img src="images/price_img.png" alt=""></a>
                         <ul>
                             <li>5 to 10 GB Disk Space </li>
                             <li>Free Domain Register</li>
@@ -261,7 +261,7 @@
                         </ul>
                         <h3>$4 to $9<span>/Mo</span></h3>
                         <div class="romana_price_btn">
-                            <a href="http://brandedmarketing.ga/whmcss/cart.php?gid=1" class="hvr-bounce-to-right">start now</a>
+                            <a href="http://bufferhost.com/whmcss/cart.php?gid=1" class="hvr-bounce-to-right">start now</a>
                         </div>
                     </div>
                     <!-- single_table end -->
