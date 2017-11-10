@@ -131,7 +131,7 @@
 
     <!-- ================= Google Map Api ============== -->
     <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyD7CQl6fRhagGok6CzFGOOPne2X1u1spoA"></script>
-    <script type="text/javascript">
+<!--     <script type="text/javascript">
         var map;
         var latlng = new google.maps.LatLng(41.901630, 12.460245);
         var stylez = [
@@ -184,7 +184,7 @@
         });
         map.mapTypes.set('gMap', mapType);
         map.setMapTypeId('gMap');
-    </script>
+    </script> -->
 
   
 
