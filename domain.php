@@ -72,7 +72,7 @@ background-color: #288feb !important;
     <div class="romana_cart_area romana_cart_area2">
         <div class="container">
             <div class="row">
-			<form action="http://brandedmarketing.ga/whmcss/domainchecker.php?systpl=apprasoft" method="post" id="domainSearchForm" class="clearfix">
+			<form action="http://bufferhost.com/whmcss/domainchecker.php?systpl=apprasoft" method="post" id="domainSearchForm" class="clearfix">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div class="romana_domain_text">
                         <h2>Search Your Domain!</h2>
